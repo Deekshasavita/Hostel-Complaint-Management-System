@@ -43,7 +43,7 @@ Start the application: npm start.
 
 Access the system through a web browser at http://localhost:3000.
 
-Note: Make sure you have Node.js and a compatible database system (e.g., MySQL, PostgreSQL) installed before proceeding with the installation.
+Note: Make sure you have PHP and a compatible database system (e.g., MySQL, PostgreSQL) installed before proceeding with the installation.
 
 Usage
 Visit the system URL provided during installation and create an admin account.
